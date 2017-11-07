@@ -40,9 +40,8 @@ Then the production-ready version is created in /dist/ folder. Please copy whole
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Webpack](https://webpack.github.io/) - Module Bundler
+* [Babel](https://babeljs.io/) - JS compiler
 
 ## Authors
 
