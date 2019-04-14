@@ -48,10 +48,7 @@ module.exports = {
   },
 
   plugins: [
-    new CleanWebpackPlugin(["dist"], {
-      root: contextPath,
-      verbose: true
-    }),
+    new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: "Your App's Title",
       template: "index.html"
